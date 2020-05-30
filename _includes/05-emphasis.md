@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm currently studying **Kotlin** on JetBrains Academy [Hyperskill](https://hyperskill.org) website, in hopes of becoming a **Kotlin Developer**. :smiley:
