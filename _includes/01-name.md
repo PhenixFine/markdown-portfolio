@@ -1,2 +1,2 @@
-###### there was no small pencil
-# Danny
+## Learning Markdown
+### My name: Danny
